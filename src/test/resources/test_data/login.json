@@ -1,0 +1,8 @@
+{
+  "Login the Sauce Demo webapp": {
+    "Login Parameters": {
+      "Username": "standard_user",
+      "Password": "secret_sauce"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Successful Checkout flow": {
+    "Checkout Parameters": {
+      "Products": [
+        "Sauce Labs Backpack",
+        "Sauce Labs Fleece Jacket"
+      ],
+      "Firstname": "Test",
+      "Lastname": "User",
+      "Zip code": "47040"
+    }
+  }
+}
